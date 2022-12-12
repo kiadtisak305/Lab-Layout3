@@ -1,0 +1,117 @@
+body {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.main {
+    background-color: rgb(244, 208, 208);
+    padding: 25px 45px 25px 45px;
+
+}
+.logo {
+    background-color: rgb(189, 111, 55);
+    padding: 20px;
+    margin-right: 0px;
+    display: inline-flex;
+    flex: 1;
+}
+
+.nav {
+    background-color: rgb(49, 225, 231);
+    padding: 20px;
+    margin-left: 0px;
+    display: inline-flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+}
+.block1{
+    background-color: rgb(231, 49, 49);
+    display: inline-block;
+    flex: 1;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-right: 20px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.block2{
+    background-color: rgb(231, 128, 49);
+    display: inline-block;
+    flex: 1;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.block3{
+    background-color: rgb(231, 216, 49);
+    display: inline-block;
+    flex: 1;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.block4{
+    background-color: rgb(85, 231, 49);
+    display: inline-block;
+    flex: 1;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box1{
+    background-color: rgb(231, 49, 198);
+    display: inline-block;
+    flex: 1;
+    margin-bottom: 15px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box2{
+    background-color: rgb(125, 49, 231);
+    display: inline-block;
+    flex: 1;
+    margin-left: 10px;
+    margin-bottom: 15px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box3{
+    background-color: rgb(231, 110, 49);
+    display: inline-block;
+    flex: 1;
+    margin-left: 10px;
+    margin-bottom: 15px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer {
+    background-color: rgb(231, 49, 119);
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
